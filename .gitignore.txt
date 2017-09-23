@@ -1,0 +1,11 @@
+# ignore everything
+*
+/.gitignore
+/webContent/
+/webContent/**
+
+/src/
+/src/**
+
+/*.txt
+/*.xml
